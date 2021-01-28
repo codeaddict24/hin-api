@@ -1,0 +1,20 @@
+{
+    "posts": [
+        {
+            "id": "0",
+            "title": "title",
+            "body": "body",
+            "category": [{"films","business"}],
+            "author": "Damien",
+            "date": $now()
+        },
+        {
+            "id": "1",
+            "title": "title",
+            "body": "body",
+            "category": [{"films","business"}],
+            "author": "Damien",
+            "date": $now()
+        },
+    ]
+}
